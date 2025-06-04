@@ -1,0 +1,41 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+
+# Ignore IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Ignore VS Code workspace settings
+.vscode/
+
+# Ignore logs
+*.log
+
+# Ignore temporary files
+*.tmp
+*.swp
+*.swo
+
+# Ignore compiled Java class files
+*.class
+
+# Ignore JAR and WAR files
+*.jar
+*.war
+
+# Ignore generated files from Maven
+target/
+
+# Ignore node_modules (if using Node.js)
+node_modules/
+
+# Ignore coverage reports
+coverage/
+*.lcov
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
